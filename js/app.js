@@ -55,7 +55,7 @@ $(document).ready(function() {
                                 } else
                                   {
                                       $(this).addClass("red-background");
-                                      $("#result").html("Rock beats paper. You Lose.");
+                                      $("#result").html("Rock beats Paper. You Lose.");
                                   }
                         }
                     if(playerChoice === "scissors")
